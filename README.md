@@ -6,4 +6,6 @@
 * Sort Array By Parity	
 * Sort Array By Parity II	
 * Unique Email Address
+* Valid Anagram
+
 
