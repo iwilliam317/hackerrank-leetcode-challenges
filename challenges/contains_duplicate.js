@@ -1,3 +1,5 @@
+https://leetcode.com/problems/contains-duplicate/description/
+
 const uniqueArray = array => [...new Set(array)]
 const sameLength = (originalArray, uniqueArray) => originalArray.length !== uniqueArray.length;
 
