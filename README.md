@@ -7,6 +7,7 @@
 * Unique Email Address
 * Valid Anagram
 * Add Digits
+* Contains Duplicate
 
 
 
