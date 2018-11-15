@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/single-number/description/
+
 const uniqueNumbersOnly = array => [...new Set(array)];
 
 let amountOccurences = (number, array) => {
