@@ -8,6 +8,7 @@
 * Valid Anagram
 * Add Digits
 * Contains Duplicate
+* [Single Number](//https://leetcode.com/problems/single-number/description/)
 
 
 
