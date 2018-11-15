@@ -5,11 +5,12 @@ let amountOccurences = (number, array) => {
 };
 
 const singleNumber = numbers => {
+  const ONE_OCCURENCE = 1;
   let uniqueArray = uniqueNumbersOnly(numbers)
   let result = 0;
 
   for(let i = 0; i < uniqueArray.length; i++){
-    if(amountOccurences(uniqueArray[i], numbers) === 1){
+    if(amountOccurences(uniqueArray[i], numbers) === ONE_OCCURENCE){
       result = uniqueArray[i];
     }
   }
