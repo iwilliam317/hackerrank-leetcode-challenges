@@ -5,6 +5,7 @@ const findIndexInArray2 = (n, arr) => {
 const compareNextElement = (n, arr) => {
   let index = findIndexInArray2(n, arr);
   let aux = n;
+  
   for(let i = index; i < arr.length; i++){
     if(arr[i]>aux){
       aux = arr[i];
