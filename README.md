@@ -10,6 +10,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * Contains Duplicate
 * [Single Number](//https://leetcode.com/problems/single-number/description/)
 * [Fizz Buzz](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/fizz_buzz.js)
+* [Next Greater Element I]()
 
 
 
