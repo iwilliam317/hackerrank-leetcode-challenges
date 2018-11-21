@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/fizz-buzz/
+// CHALLENGE - https://leetcode.com/problems/fizz-buzz/
 const dividedByThree = n => n % 3 === 0;
 const dividedByFive = n => n % 5 === 0;
 const compose = (fa, fb) => n => fa(n) && fb(n);
