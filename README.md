@@ -9,7 +9,7 @@
 * Add Digits
 * Contains Duplicate
 * [Single Number](//https://leetcode.com/problems/single-number/description/)
-* [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+* [Fizz Buzz](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/fizz_buzz.js)
 
 
 
