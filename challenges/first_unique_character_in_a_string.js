@@ -2,26 +2,14 @@
 
 const isUnique = (array, letter) => array.filter(s => s === letter).length === 1;
 
-const noneUnique = (n, array) => n === array.length;
-
 const firstUniqChar = string => {
   let aux = string.split('');
-  let index = 0;
-  let i;
-
-  for(i = 0; i < aux.length; i++){    
+  for(let i = 0; i < aux.length; i++){    
     if(isUnique(aux, aux[i])){
-      index = i;
-      break;
+      return i;
     } 
   }
-
-  if(noneUnique(i, aux)){
-    index = -1;
-  }
-
-  return index;
+  return -1
 }
 
-
-console.log(firstUniqChar('leetcode'))
+console.log(firstUniqChar('loveleetcode'))
