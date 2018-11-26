@@ -12,7 +12,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Fizz Buzz](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/fizz_buzz.js)
 * [Next Greater Element I](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/next_greater_element_i.js)
 * [First Unique Character In A String](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/first_unique_character_in_a_string.js)
-* Two Sum II - Input array is sorted
+* [Two Sum II - Input array is sorted](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/two_sum_ii_input_array_is_sorted.js)
 
 
 
