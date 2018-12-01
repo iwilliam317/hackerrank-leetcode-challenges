@@ -14,6 +14,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [First Unique Character In A String](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/first_unique_character_in_a_string.js)
 * [Two Sum II - Input array is sorted](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/two_sum_ii_input_array_is_sorted.js)
 * [Array Partition I](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/array_partition_i.js)
+* [Find the Difference](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/find_the_difference.js)
 
 
 
