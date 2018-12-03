@@ -15,6 +15,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Two Sum II - Input array is sorted](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/two_sum_ii_input_array_is_sorted.js)
 * [Array Partition I](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/array_partition_i.js)
 * [Find the Difference](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/find_the_difference.js)
+* [Intersection of Two Arrays](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/intersection_of_two_arrays.js)
 
 
 
