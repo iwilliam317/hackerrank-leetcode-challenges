@@ -5,7 +5,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Sort Array By Parity	](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/sort_array_by_parity.js)
 * [Sort Array By Parity II	](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/sort_array_by_parity_II.js)
 * [Unique Email Address](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/unique_email_address.js)
-* Valid Anagram
+* [Valid Anagram](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/valid_anagram.js)
 * Add Digits
 * Contains Duplicate
 * [Single Number](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/single_number.js)
