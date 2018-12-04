@@ -1,6 +1,6 @@
 # Leetcode Challenges
 A place to share some javascript resolutions from [LeetCode Challenges](https://leetcode.com/)
-* Reverse String
+* [Reverse String](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/reverse_string.js)
 * Reverse Words In A String III
 * Sort Array By Parity	
 * Sort Array By Parity II	
