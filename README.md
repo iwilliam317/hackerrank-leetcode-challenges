@@ -7,7 +7,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Unique Email Address](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/unique_email_address.js)
 * [Valid Anagram](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/valid_anagram.js)
 * [Add Digits](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/add_digits.js)
-* Contains Duplicate
+* [Contains Duplicate](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/contains_duplicate.js)
 * [Single Number](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/single_number.js)
 * [Fizz Buzz](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/fizz_buzz.js)
 * [Next Greater Element I](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/next_greater_element_i.js)
