@@ -4,7 +4,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Reverse Words In A String III](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/reverse_words_in_a_string_III.js)
 * [Sort Array By Parity	](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/sort_array_by_parity.js)
 * [Sort Array By Parity II	](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/sort_array_by_parity_II.js)
-* Unique Email Address
+* [Unique Email Address](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/unique_email_address.js)
 * Valid Anagram
 * Add Digits
 * Contains Duplicate
