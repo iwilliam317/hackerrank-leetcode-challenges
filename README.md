@@ -18,6 +18,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Intersection of Two Arrays](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/intersection_of_two_arrays.js)
 * [Remove Element](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/remove_element.js)
 * [Reverse Integer](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/reverse_integer.js)
+* [DI String Match](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/di_string_match.js)
 
 
 
