@@ -19,6 +19,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Remove Element](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/remove_element.js)
 * [Reverse Integer](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/reverse_integer.js)
 * [DI String Match](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/di_string_match.js)
+* [Jewels and Stones](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/jewels_and_stones.js)
 
 
 
