@@ -21,6 +21,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [DI String Match](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/di_string_match.js)
 * [Jewels and Stones](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/jewels_and_stones.js)
 * [Random Challenges](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/random_challenges.js)
+* [Add Two Digits](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/add_two_digits.js)
 
 
 
