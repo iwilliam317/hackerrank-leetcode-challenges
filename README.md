@@ -22,6 +22,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Jewels and Stones](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/jewels_and_stones.js)
 * [Random Challenges](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/random_challenges.js)
 * [Add Two Digits](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/add_two_digits.js)
+* [Largest Number](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/largest_number.js)
 
 
 
