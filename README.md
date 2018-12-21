@@ -24,6 +24,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Add Two Digits](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/add_two_digits.js)
 * [Largest Number](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/largest_number.js)
 * [Simple Array Sum](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/simple_array_sum.js)
+* [Century From Year](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/century_from_year.js)
 
 
 
