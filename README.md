@@ -25,6 +25,7 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Largest Number](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/largest_number.js)
 * [Simple Array Sum](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/simple_array_sum.js)
 * [Century From Year](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/century_from_year.js)
+* [Check Palindrome](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/check_palindrome.js)
 
 
 
