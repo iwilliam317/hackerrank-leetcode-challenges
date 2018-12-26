@@ -27,5 +27,6 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Century From Year](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/century_from_year.js)
 * [Check Palindrome](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/check_palindrome.js)
 * [Adjacent Elements Product](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/adjacent_elements_product.js)
+* [Shape Area](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/shape_area.js)
 
 
