@@ -28,5 +28,6 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Check Palindrome](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/check_palindrome.js)
 * [Adjacent Elements Product](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/adjacent_elements_product.js)
 * [Shape Area](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/shape_area.js)
+* [Make Array Consecutive 2](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/make_array_consecutive_2.js)
 
 
