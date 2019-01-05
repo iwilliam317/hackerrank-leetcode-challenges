@@ -10,3 +10,6 @@ const firstNotRepeatingCharacter = s => {
   }
   return '_'
 }
+
+
+console.log(firstNotRepeatingCharacter('abaabcad'))
