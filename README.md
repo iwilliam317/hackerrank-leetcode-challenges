@@ -31,5 +31,5 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Make Array Consecutive 2](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/make_array_consecutive_2.js)
 * [N Repeated Element In Size 2n Array](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/n_repeated_element_in_size_2n_array.js)
 * [First Not Repeating Character](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/first_not_repeating_character.js)
-
+* [Amend The Sequence](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/amend_the_sequence.js)
 
