@@ -34,4 +34,5 @@ A place to share some javascript resolutions from [LeetCode Challenges](https://
 * [Amend The Sequence](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/amend_the_sequence.js)
 * [Big Countries](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/big-countries.sql)
 * [Find The Number](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/find_the_numbers.js)
+* [Odd Numbers](https://github.com/iwilliam317/leetcode-challenges/blob/master/challenges/odd_numbers.js)
 
