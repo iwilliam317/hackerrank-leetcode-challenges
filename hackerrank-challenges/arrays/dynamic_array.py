@@ -50,3 +50,5 @@ if __name__ == '__main__':
     fptr.write('\n')
 
     fptr.close()
+
+# https://www.hackerrank.com/challenges/2d-array/problem
