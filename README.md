@@ -1,8 +1,9 @@
 # Hackerrank Challenges
 [Hackerrank](https://www.hackerrank.com)
 
-* [2D Array - DS]()
-* [Dynamic Array]()
+* [2D Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
+* [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)
+* [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
 
 # Leetcode Challenges
 [LeetCode](https://leetcode.com/)
