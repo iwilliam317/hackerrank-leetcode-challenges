@@ -10,7 +10,7 @@ import sys
 
 # Complete the matchingStrings function below.
 def matchingStrings(strings, queries):
-
+    # OPTION 1 - BUILT IN SOLUTION
     my_strings = strings
     result = []
 
@@ -18,6 +18,18 @@ def matchingStrings(strings, queries):
         result.append(my_strings.count(queries[i]))
 
     return result
+
+    #  OPTION 2 - MANUAL LOOP 
+    # my_strings = strings
+    # result = []
+    # for i in range(len(queries)):
+    #     count = 0
+    #     for j in range(len(strings)):
+    #         if queries[i] == strings[j]:
+    #             count += 1
+    #     result.append(count)
+    # return result
+
     
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
