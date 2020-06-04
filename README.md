@@ -4,6 +4,7 @@
 * [2D Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
 * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)
 * [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
+* [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 
 # Leetcode Challenges
 [LeetCode](https://leetcode.com/)
