@@ -14,10 +14,21 @@ def matchingStrings(strings, queries):
     my_strings = strings
     result = []
 
-    for i in range(len(queries)):
-        result.append(my_strings.count(queries[i]))
 
-    return result
+    hashd = {}
+    for i in strings:
+        hashd[str(i)] = 0
+    
+    for q in queries:
+        pass
+        # if q in hashd.keys():
+    
+    return hashd['aba']
+
+    # for i in range(len(queries)):
+    #     result.append(my_strings.count(queries[i]))
+
+    # return result
 
     #  OPTION 2 - MANUAL LOOP 
     # my_strings = strings
