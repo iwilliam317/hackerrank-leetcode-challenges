@@ -14,8 +14,10 @@ def hourglassSum(m):
             current = (
                 m[i-1][j-1] + 
                 m[i-1][j] + 
-                m[i-1][j+1] +
+                m[i-1][j+1] + 
+
                 m[i][j] + 
+                
                 m[i+1][j-1] +
                 m[i+1][j] +
                 m[i+1][j+1]
